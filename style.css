@@ -1,0 +1,117 @@
+
+*{
+  margin: 0%;
+  padding: 0%;
+  }
+
+  body{
+    background-image:url("img/su.jpg");
+  }
+  .nav{
+    width: 97%;
+    color: white;
+    padding: 32px;
+    background-color:rgb(189, 110, 110);
+  }
+  .logo{
+    display: inline-block;
+  }
+  .menu{
+    display: inline-block;
+    float: right;
+  }
+  #menu-ul{
+    display: flex;
+  
+  }
+  #menu-ul li{
+    margin-left: 32px;
+    list-style-type: none;
+  }
+  .menu ul li:hover{
+    
+    background-color:rgba(190, 121, 121, 0.8)
+    color: blueviolet;
+  }
+  /* mainka*/
+body{
+
+ 
+}
+.sec1{
+   background-color: rgba(190, 121, 121, 0.8);
+    margin: 22px;
+}
+.container{
+  display: flex;
+  padding: 34px;
+}
+.part img{
+width: 200px;
+height: 200px;
+}
+.part{
+  
+}
+.info{
+
+
+}
+.main{
+  background-color:purple ;
+  color:white;
+  display: inline-block;
+}
+.shamso{
+  background-color:blue;
+  color: brown;
+  display: inline-block;
+}
+.salma{
+  background-color: black;
+  color: white;
+  display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .sec1{
+  
+  width: 100%;
+    height: 500px;
+    margin-right: 12px;
+    color: rgb(247, 246, 246);
+  }
+  h1{
+    padding-top: 32px;
+    margin-left: 32px;
+  }
+  .po{
+    padding: 32px;
+    margin-left: 32px;
+  }
+  
